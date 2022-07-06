@@ -7,7 +7,7 @@ I am a third year student pursuing Bachelors in Computer Science and Engineering
 - 🌱 Has keen interest in Web development , Artificial intelligence and Graphic Designing.
 - ⚡ Likes to Contribute to open source.
 - 📫 Loves to explore new domains in Tech.
-<img align ="right" alt="GirlCoder" width="400" height="300" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align ="right" alt="GirlCoder" width="350" height="250" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <br>
 
 ## 🛠 Languages and Tools :
