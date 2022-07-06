@@ -7,7 +7,7 @@ I am a third year student pursing Bachelors in Computer Science and Engineering
 - 🌱 Has keen interest in Web development , Artificial intelligence and Graphic Designing.
 - ⚡ Likes to Contribute to open source.
 - 📫 Loves to explore new domains in Tech.
-<img align ="right" alt="GirlCoder" width="500" height="500" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
+<img align ="right" alt="GirlCoder" width="400" height="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 <br>
 
 ## 🛠 Languages and Tools :
