@@ -2,12 +2,12 @@
 <h3 align="center">An avid learner with great passion for technology !!</h3>
 
 ## 👩‍💻 About Me :
-I am a third year student pursing Bachelors in Computer Science and Engineering 
+I am a third year student pursuing Bachelors in Computer Science and Engineering 
 - 🔭 Skilled in C++ and C.
 - 🌱 Has keen interest in Web development , Artificial intelligence and Graphic Designing.
 - ⚡ Likes to Contribute to open source.
 - 📫 Loves to explore new domains in Tech.
-<img align ="right" alt="GirlCoder" width="400" height="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
+<img align ="right" alt="GirlCoder" width="400" height="300" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <br>
 
 ## 🛠 Languages and Tools :
