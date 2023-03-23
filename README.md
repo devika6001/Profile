@@ -29,6 +29,8 @@ I am a third year student pursuing Bachelors in Computer Science and Engineering
 ![Devika's GitHub stats](https://github-readme-stats.vercel.app/api?username=devika6001&show_icons=true&theme=radical)<br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devika6001&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 
+## 🌱 Languages Used : 
+![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devika6001&layout=compact&show_icons=true)
 
 ## 🔌 Connect with me : 
 <div align="center">
