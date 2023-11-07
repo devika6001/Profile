@@ -2,7 +2,7 @@
 <h3 align="center">An avid learner with great passion for technology !!</h3>
 
 ## 👩‍💻 About Me :
-I am a third year student pursuing Bachelors in Computer Science and Engineering 
+I am a fourth year student pursuing Bachelors in Computer Science and Engineering 
 - 🔭 Skilled in C++ and C.
 - 🌱 Has keen interest in Web development , Coding and Graphic Designing.
 - ⚡ Likes to Contribute to open source.
