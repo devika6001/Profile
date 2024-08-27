@@ -2,12 +2,13 @@
 <h3 align="center">An avid learner with great passion for technology !!</h3>
 
 ## 👩‍💻 About Me :
-I am a graduate student pursuing Bachelors in Computer Science and Engineering 
+I am a Btech Graduate in Computer Science and Engineering
 - 🔭 Skilled in C++ and C.
 - 🌱 Has keen interest in Web development , Coding and Cyber Security.
 - ⚡ Likes to Contribute to open source.
 - 📫 Loves to explore new domains in Tech.
-<img align ="right" alt="GirlCoder" width="350" height="250" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="GirlCoder" width="350" height="300" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
+
 <br>
 
 ## 🛠 Languages and Tools :
