@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Devika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
 <h3 align="center">An avid learner with great passion for technology !!</h3>
 
@@ -8,12 +7,12 @@ I am a Btech Graduate in Computer Science and Engineering
 - 🌱 Has keen interest in Web development , Coding and Cyber Security.
 - ⚡ Likes to Contribute to open source.
 - 📫 Loves to explore new domains in Tech.
-<img align="right" alt="GirlCoder" width="350" height="250" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <br>
 
 ## 🛠 Languages and Tools :
 <p align="left"> 
+  <img align="right" alt="GirlCoder" width="350" height="250" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" style="margin-top: 20px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="cplusplus" width="40" height="40"/> 
