@@ -7,7 +7,7 @@ I am a Btech Graduate in Computer Science and Engineering
 - 🌱 Has keen interest in Web development , Coding and Cyber Security.
 - ⚡ Likes to Contribute to open source.
 - 📫 Loves to explore new domains in Tech.
-<img align="right" alt="GirlCoder" width="350" height="300" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="GirlCoder" width="350" height="300" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" style="display:inline-block; margin-top:70px;">
 
 <br>
 
