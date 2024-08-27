@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Devika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
 <h3 align="center">An avid learner with great passion for technology !!</h3>
 
@@ -7,7 +8,7 @@ I am a Btech Graduate in Computer Science and Engineering
 - 🌱 Has keen interest in Web development , Coding and Cyber Security.
 - ⚡ Likes to Contribute to open source.
 - 📫 Loves to explore new domains in Tech.
-<img align="right" alt="GirlCoder" width="350" height="300" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" style="display:inline-block; margin-top:70px;">
+<img align="right" alt="GirlCoder" width="350" height="250" src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <br>
 
