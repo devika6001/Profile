@@ -5,7 +5,7 @@
 I am a Btech Graduate in Computer Science and Engineering
 - 🏢 Work at Thales
 - 🔭 Skilled in C++ and C.
-- 🌱 Has keen interest in Web development , Coding and Cyber-Security.
+- 🌱 Has keen interest in Web Development , Coding and Cyber-Security.
 - ⚡ Likes to Contribute to open source.
 - 📫 Loves to explore new domains in Tech.
 
