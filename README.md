@@ -22,22 +22,26 @@ I am a Btech Graduate in Computer Science and Engineering
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/>
 <br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
 <br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="jquery" width="40" height="40"/>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="jquery" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jquery" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="jquery" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="jquery" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="jquery" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="jquery" width="40" height="40"/>
+
+
 
 
 
